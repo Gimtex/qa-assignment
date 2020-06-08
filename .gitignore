@@ -1,0 +1,7 @@
+### IDEA IDE specific
+.DS_Store
+.idea/
+*.iml
+
+### Maven generated
+target/
